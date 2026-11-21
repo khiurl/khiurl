@@ -3,10 +3,6 @@
 <hr>
 
 <p align="justify">
-I am Khoirul Huda, a student from Samarinda currently in the early stages of an intensive learning journey to become a Software Engineer/Full Stack Developer. I have a strong interest in web development and am passionate about mastering the JavaScript ecosystem—spanning both frontend and backend—from the fundamentals to advanced concepts.
-</p>
-
-<p align="justify">
 Mahasiswa TRK POLNES yang lagi menikmati proses belajar backend dan full-stack web development (Node.js, PostgreSQL, React). Suka belajar lewat praktik langsung bangun proyek nyata dan kolaborasi bareng tim. Terbuka banget buat diskusi, networking, dan masukan baru buat terus berkembang di dunia tech.
 </p>
 
