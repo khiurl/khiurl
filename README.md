@@ -7,7 +7,7 @@ I am Khoirul Huda, a student from Samarinda currently in the early stages of an 
 </p>
 
 <p align="justify">
-My current focus is building a solid foundation in designing functional, user-friendly web applications, while exploring and experimenting with modern tools like React. As someone eager to learn, I enjoy every step of the learning process and the new challenges the tech world offers. I am an open-minded team player who values ​​collaboration and is always ready to listen to feedback in order to grow into a better developer.
+Mahasiswa TRK POLNES yang lagi menikmati proses belajar backend dan full-stack web development (Node.js, PostgreSQL, React). Suka belajar lewat praktik langsung bangun proyek nyata dan kolaborasi bareng tim. Terbuka banget buat diskusi, networking, dan masukan baru buat terus berkembang di dunia tech.
 </p>
 
 ### 📊 Statistics
