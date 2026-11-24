@@ -47,13 +47,20 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=b4its" alt="GitHub Streak" /></a>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=b4its&theme=shadow_blue&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=b4its&icon=6&color=0)](https://visitcount.itsvg.in)
+  <i>"Always commit. Never stop learning. Keep building."</i>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<div align="center">
+
+  <a href="https://saweria.co/khiurl">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         alt="Buy Me A Coffee"
+         width="180">
+  </a>
+
+</div>
+
